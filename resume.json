@@ -1,0 +1,38 @@
+{
+    "Education": [
+        "B. Sc. in Computer Science and Engineering",
+        "Higher Secondary in Science",
+        "Secondary in Science"
+    ],
+
+    "Work Experience": [
+        "Junior Software Developer at Truck Lagbe"
+    ],
+
+    "Projects": [
+        "lsapp: Laravel Powred Blog site.",
+        "getmasum: My Personal Website.",
+        "Currency Detection by CNN, Image Processing"
+    ],
+
+    "Skills": [
+        "NodeJS",
+        "Laravel",
+        "React JS",
+        "Python, JavaScript, PHP, C++",
+        "MongoDB, MySQL",
+        "Amazon's AWS (EC2, S3, RDS)",
+        "HTML, CSS, AJAX, JQuery",
+        "Git"
+    ],
+
+    "Contact": [
+        "Email: ogkmasum@gmail.com",
+        "+8801686163323"
+    ],
+
+    "Links": [
+        "https://github.com/Masum-Osman",
+        "https://stackoverflow.com/users/7086610/masum-osman-khan"
+    ]
+}
